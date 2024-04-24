@@ -4,3 +4,7 @@ He has breakfast.
 Then he ...
 He goes to class.
 He feels tired.
+He fell asleep on the table.
+He got scolded by the teacher.
+He woke up and tried to focus.
+He ate some candy to help keep him awake.
